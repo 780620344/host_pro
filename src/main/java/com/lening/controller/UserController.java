@@ -71,4 +71,7 @@ public class UserController {
     public UserBean getUserVoById(Long id){
         return userService.getUserVoById(id);
     }
+
+
+    //添加测试
 }
